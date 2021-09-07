@@ -3,9 +3,9 @@ import { Switch, Route, Link, BrowserRouter as Router } from "react-router-dom";
 import axios from 'axios';
 import jwt_decode from 'jwt-decode';
 
-import AddProduct from './components/AddProduct';
+//import AddProduct from './components/AddProduct';
 import Cart from './components/Cart';
-import Login from './components/Login';
+//import Login from './components/Login';
 import ProductList from './components/ProductList';
 
 import Context from "./Context";
